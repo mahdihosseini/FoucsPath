@@ -1,28 +1,30 @@
 # FoucsPath
 FocusPath is a dataset for Natural Focus Blurr Assessment in Digital Pathology. The dataset can be used to develop no-reference focus/blur/sharpness quality assessment in image processing and computer vision methods
 
-The downlink information of FocusPath dataset can be found from
+## Where to Download?
+The downlink for dataset is  
+[https://drive.google.com/open?id=1TlPszQjwhnlBU6LScKBkUa78eA7oq13X]
 
+## More Information
+For more information on FocusPath dataset please visit  
 https://sites.google.com/view/focuspathuoft
 
-FocusPath includes    
+## FocusPath Specefics    
 - 864 image patches of 1024x1024 (sRGB) with different out-of-focus levels
 - Image patches are cropped across nine (9) different whole slide images
 - Tissue slides are selected from diverse color stain information
 
-----------------------------------------------------------------
-More information can be found from:
+## Publication Information
 Paper title: [Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment]  
 Published in IEEE Transaction Image Processing: [https://ieeexplore.ieee.org/abstract/document/8672094]  
 
-----------------------------------------------------------------
-Author:  
+## Author  
 Mahdi S. Hosseini  
 Email: mahdi.hosseini@mail.utoronto.ca  
 http://www.dsp.utoronto.ca/~mhosseini/  
 
 ----------------------------------------------------------------
-Citation:
+## Citation
 
 @article{8672094,   
 author={M. S. {Hosseini} and Y. {Zhang} and K. N. {Plataniotis}},   
