@@ -1,5 +1,7 @@
 # FoucsPath
-FocusPath is a dataset for Natural Focus Blurr Assessment in Digital Pathology. The dataset can be used to develop no-reference focus/blur/sharpness quality assessment in image processing and computer vision methods
+FocusPath is a dataset compiled by diverse Whole Slide Imaging (WSI) scans in different focus (z-) levels and it can be used for Natural Focus Blurr Assessment in Digital Pathology for no-reference focus/blur/sharpness quality assessment development in image processing and computer vision methods.
+
+![Z_Stack_Scan](https://user-images.githubusercontent.com/7947948/61660834-c6185280-ac98-11e9-9e5a-a7f44e8f4732.png)
 
 ## Where to Download?
 The downlink for dataset is  
@@ -12,6 +14,7 @@ https://sites.google.com/view/focuspathuoft
 ## FocusPath Specefics    
 - 864 image patches of 1024x1024 (sRGB) with different out-of-focus levels
 - Image patches are cropped across nine (9) different whole slide images
+- 16 different Z-levels are used to generate different out-of-focus images
 - Tissue slides are selected from diverse color stain information
 
 ## Publication Information
