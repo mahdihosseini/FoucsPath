@@ -17,17 +17,18 @@ https://sites.google.com/view/focuspathuoft
 - 16 different Z-levels are used to generate different out-of-focus images
 - Tissue slides are selected from diverse color stain information
 
-## Publication Information
-Paper title: [Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment]  
-Published in IEEE Transaction Image Processing: [https://ieeexplore.ieee.org/abstract/document/8672094]  
+## Related Publication:
+*Hosseini, Mahdi S., Yueyang Zhang, and Konstantinos N. Plataniotis. "[Encoding Visual Sensitivity by MaxPol Convolution Filters for Image Sharpness Assessment](https://ieeexplore.ieee.org/abstract/document/8672094)." IEEE Transactions on Image Processing (2019).*  
 
-## Author  
+
+----------------------------------------------------------------
+## Author:  
 Mahdi S. Hosseini  
 Email: mahdi.hosseini@mail.utoronto.ca  
 http://www.dsp.utoronto.ca/~mhosseini/  
 
 ----------------------------------------------------------------
-## Citation
+## Citation:  
 
 @article{8672094,   
 author={M. S. {Hosseini} and Y. {Zhang} and K. N. {Plataniotis}},   
